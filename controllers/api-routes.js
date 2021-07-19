@@ -51,7 +51,6 @@ router.put('/workouts/:id', async (req, res) => {
             $push: {
                 exercises: req.body
             }
-
         })
 
     } catch (error) {
