@@ -20,6 +20,7 @@ router.get('/workouts', async (req, res) => {
 
 // /api/workouts/range
 // Get workouts in range
+// Need to get last 7 workouts only ******
 router.get('/workouts/range', async (req, res) => {
     try {
         const d = await db.Workout.find({});
