@@ -1,6 +1,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Workout Tracker
 
+This repository contains a workout tracker that allows the user to:
+
+- Add exercises to the most recent workout plan
+- Add new exercises to a new workout plan
+- View the combined weight of multiple exercises from the past seven workouts on the stats page
+- View the total duration of each workout from the past seven workouts on the stats page
+
 ### Link to deployed application
 
 https://workout-tracker-micheqn3.herokuapp.com/
