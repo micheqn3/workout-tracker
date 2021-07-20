@@ -37,6 +37,14 @@ https://workout-tracker-micheqn3.herokuapp.com/
 
 ### Screenshots of pages
 
+Home Page          |  Add Exercise
+:-------------------------:|:-------------------------: 
+![Home page](/Assets/homepage.png)  |  ![Add an exercise](/Assets/add-exercise.png)
+
+Workout Stats
+:-------------------------:
+![Workout stats](/Assets/stats.png)
+
 ### License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 MIT
