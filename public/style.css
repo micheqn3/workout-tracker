@@ -17,7 +17,7 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #653a7a;
   color: #ffffff;
   padding: 24px;
   line-height: 3;
@@ -41,7 +41,7 @@ nav a {
 
 nav a:hover {
   background-color: #ffffff;
-  color: #5793fd;
+  color: #653a7a;
 }
 
 header {
@@ -105,6 +105,14 @@ input {
 .wrapper {
   background-color: #f2f8ff;
   padding-bottom: 100px;
+}
+
+.fitness-title {
+  color: #653a7a;
+}
+
+.title-space {
+  margin-top: 10%;
 }
 
 .card.m-auto,
