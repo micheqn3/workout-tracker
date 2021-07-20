@@ -20,11 +20,10 @@ router.get('/workouts', async (req, res) => {
 
 // /api/workouts/range
 // Get workouts in range
-// Need to get last 7 workouts only ******
 router.get('/workouts/range', async (req, res) => {
     try {
         const d = await db.Workout.find({});
-        res.json(d)
+        res.json(d.reverse().slice(0, 7)); // Returns only the last 7 workouts 
 
     } catch (error) {
         res.json(error);
