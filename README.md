@@ -3,7 +3,20 @@
 
 ### Link to deployed application
 
+https://workout-tracker-micheqn3.herokuapp.com/
+
 ### Installing locally
+
+1. Make sure you have Node.js to run the application
+2. Clone this repo
+> HTTPS: `https://github.com/micheqn3/workout-tracker.git` <br>
+> SSH: `git@github.com:micheqn3/workout-tracker.git`
+3. Install the NPM packages
+> npm install
+4. Run the application in command line 
+> node server.js
+5. View the application in the browser as it is hosted locally
+> `http://localhost:3000/`
 
 ### Technologies/Languages used: 
 
